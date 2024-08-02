@@ -1,9 +1,10 @@
 # portfolio-wbsite
 
-Portfolio Website
-Welcome to my portfolio website showcasing my skills and projects.
+#Portfolio Website
 
-Features:
+---__Welcome to my portfolio website showcasing my skills and projects.__---
+
+''Features:''
 
 1.Responsive design
 
@@ -13,27 +14,33 @@ Features:
 
 3.Contact form
 
+--------------------------------------------------------------------------------
 
 
-Technologies:
+
+''Technologies:''
 
 1.HTML
 
 2.CSS
 
 3.JavaScript
+-------------------------------------------------------------------------
 
-Contributing
+''Contributing:''
 
-Fork the repository.
+1 .Fork the repository.
 
-Create a feature branch.
+2 .Create a feature branch.
 
-Commit changes and push to your branch.
+3 .Commit changes and push to your branch.
 
-Open a pull request.
+4 .Open a pull request.
 
-Features:
+
+----------------------------------------------------------------------------------------------
+
+''Features:''
 
 1.Responsive Design: Optimized for various devices including desktops, tablets, and smartphones.
 
@@ -43,7 +50,10 @@ Features:
 
 4.Blog: (Optional) Share insights, updates, or articles related to my field.
 
-Contact
+
+----------------------------------------------------------------------------------------------
+
+''Contact''
 
 
 Email: ragunathjayakumar15@gmail.com
